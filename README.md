@@ -2,6 +2,7 @@ Login Page with Fingerprint Authentication
 This is a login page designed using HTML and CSS, with an additional feature of fingerprint authentication. The purpose of this project is to provide a secure and user-friendly login experience for web applications.
 
 Features
+
 User-friendly Design: The login page has been carefully designed to provide an intuitive and visually appealing interface for users.
 
 Fingerprint Authentication: In addition to traditional username and password authentication, this login page incorporates fingerprint authentication for enhanced security and convenience.
